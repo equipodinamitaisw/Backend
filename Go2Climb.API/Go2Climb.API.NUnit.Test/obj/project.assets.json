@@ -6970,11 +6970,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\upc\\isw\\Back-end\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
+      "projectUniqueName": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
       "projectName": "Go2Climb.API.NUnit.Test",
-      "projectPath": "E:\\upc\\isw\\Back-end\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
+      "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
       "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "E:\\upc\\isw\\Back-end\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\obj\\",
+      "outputPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6991,8 +6991,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\upc\\isw\\Back-end\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
-              "projectPath": "E:\\upc\\isw\\Back-end\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
+            "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
+              "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
             }
           }
         }
