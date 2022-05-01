@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "if7x0cU2riIybH/caVhRfCQBaAv+lDG6DzNlfZJ2Km2u6zJBoMQUDHYvHxQTbIbVHQ0gL/3Kvj44eOZjEXhNFg==",
+  "dgSpecHash": "XZwhq58fv3PIkEpY2al0zuYMTGt5RKMxz+oyBfiLPEHbaCQfwE8SSeCBDehnntRfJ/yh4s7PaSYhvCEfwrKEZQ==",
   "success": true,
   "projectFilePath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
   "expectedPackageFiles": [
@@ -63,8 +63,7 @@
     "C:\\Users\\sebas\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\sebas\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
-    "C:\\Users\\sebas\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+    "C:\\Users\\sebas\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

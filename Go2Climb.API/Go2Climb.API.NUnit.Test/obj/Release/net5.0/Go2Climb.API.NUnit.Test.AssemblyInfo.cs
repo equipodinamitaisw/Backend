@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Go2Climb.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API", "Go2Climb.API.csproj", "0")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("Go2Climb.API.Tests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Go2Climb.API.NUnit.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Go2Climb.API.Tests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Go2Climb.API.Tests")]
+[assembly: System.Reflection.AssemblyProductAttribute("Go2Climb.API.NUnit.Test")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Go2Climb.API.NUnit.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
