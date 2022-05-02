@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
 using TechTalk.SpecFlow;
 
-namespace Go2Climb.API.Tests
+namespace Go2Climb.API.Tests.Steps
 {
     [Binding]
     public class pruebaselenium
