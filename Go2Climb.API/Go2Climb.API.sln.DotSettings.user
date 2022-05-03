@@ -1,12 +1,17 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=35e46c75_002Df994_002D473d_002D875a_002D380c05148225/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;And&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::AD56B025-DF1D-47ED-B2C4-AC5356A60FDF::net5.0::Go2Climb.API.Tests.Features.ContractServiceToAgencyFeature&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Project Location="D:\Universidad\Ciclo 2022-01\Diseño de experimentos de software\Backend\Go2Climb.API\Go2Climb.API.Tests" Presentation="&amp;lt;Go2Climb.API.Tests&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;Go2Climb.API.Tests.Features&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
     &lt;TestAncestor&gt;&#xD;
-      &lt;TestId&gt;xUnit::AD56B025-DF1D-47ED-B2C4-AC5356A60FDF::net5.0::Go2Climb.API.Tests.Features.ContractServiceToAgencyFeature&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::AD56B025-DF1D-47ED-B2C4-AC5356A60FDF::net5.0::Go2Climb.API.Tests.Features.ViewServiceValorationFeature.ViewRatingsFromAnAgencyThatHasQualifications&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
-    &lt;Project Location="D:\Universidad\Ciclo 2022-01\Diseño de experimentos de software\Backend\Go2Climb.API\Go2Climb.API.Tests" Presentation="&amp;lt;Go2Climb.API.Tests&amp;gt;" /&gt;&#xD;
-    &lt;Namespace&gt;Go2Climb.API.Tests.Features&lt;/Namespace&gt;&#xD;
-  &lt;/And&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestRunner/SpawnedProcessesKnownList/=chromedriver_002Eexe/@EntryIndexedValue">KillOrphaned</s:String>
