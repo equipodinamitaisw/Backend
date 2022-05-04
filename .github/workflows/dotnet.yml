@@ -17,13 +17,10 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 5.0.x
-    - name: directory swap
-      run: cd Go2Climb.API
-    - name: dir
-      run: ls
+    
     - name: Restore dependencies
-      run: dotnet restore ~/Go2Climb.API/Go2Climb.API.csproj
+      run: dotnet restore ./Go2Climb.API/Go2Climb.API.csproj
     - name: Build
-      run: dotnet build ~/Go2Climb.API/Go2Climb.API.csproj --no-restore
+      run: dotnet build ./Go2Climb.API/Go2Climb.API.csproj --no-restore
     - name: Test
-      run: dotnet test ~/Go2Climb.API.NUnit.Test/Go2Climb.API.NUnit.Test.csproj --no-build --verbosity normal
+      run: dotnet test ./Go2Climb.API.NUnit.Test/Go2Climb.API.NUnit.Test.csproj --no-build --verbosity normal
