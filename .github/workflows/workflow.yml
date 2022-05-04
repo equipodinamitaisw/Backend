@@ -18,8 +18,8 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
-      run: dotnet build -h
+      run: dotnet restore Backend/Go2Climb.API/Go2Climb.API/Go2Climb.API.csproj
     - name: Build
-      run: dotnet build --p Go2Climb.API/Go2Climb.API --no-restore
+      run: dotnet build Backend/Go2Climb.API/Go2Climb.API/Go2Climb.API.csproj --no-restore
     - name: Test
-      run: dotnet test --p Go2Climb.API/Go2Climb.API.NUnit.Test --no-build --verbosity normal
+      run: dotnet test Backend/Go2Climb.API/Go2Climb.API.NUnit.Test/Go2Climb.API.NUnit.Test.csproj --no-build --verbosity normal
