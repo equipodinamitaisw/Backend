@@ -29,4 +29,10 @@
       <ProjectReference Include="..\Go2Climb.API\Go2Climb.API.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Update="Features\AddService.feature.cs">
+        <DependentUpon>AddService.feature</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 </Project>

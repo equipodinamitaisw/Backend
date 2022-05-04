@@ -113,20 +113,20 @@ this.ScenarioInitialize(scenarioInfo);
 #line 6
  testRunner.Given("the agency wants to add on service endpoint", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
-                TechTalk.SpecFlow.Table table3 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table4 = new TechTalk.SpecFlow.Table(new string[] {
                             "Name",
                             "Price",
                             "Location",
                             "CreationDate",
                             "Description"});
-                table3.AddRow(new string[] {
+                table4.AddRow(new string[] {
                             "New Service",
                             "420",
                             "Ancash",
                             "06-11-2021",
                             "This is a new service for my agency"});
 #line 7
- testRunner.When("owner add a new service", ((string)(null)), table3, "When ");
+ testRunner.When("owner add a new service", ((string)(null)), table4, "When ");
 #line hidden
 #line 10
  testRunner.Then("the service will be added successfully", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
