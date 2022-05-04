@@ -18,7 +18,7 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
-      run: dotnet restore -project Go2Climb.API/Go2Climb.API
+      run: dotnet restore -p Go2Climb.API/Go2Climb.API
     - name: Build
       run: dotnet build -p Go2Climb.API/Go2Climb.API --no-restore
     - name: Test
