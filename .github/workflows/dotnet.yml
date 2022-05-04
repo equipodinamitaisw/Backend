@@ -17,7 +17,9 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 5.0.x
-    - name: directory
+    - name: directory swap
+      run: cd Go2Climb.API
+    - name: dir
       run: ls
     - name: Restore dependencies
       run: dotnet restore ~/Go2Climb.API/Go2Climb.API.csproj
