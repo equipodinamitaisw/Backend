@@ -1,8 +1,6 @@
 {
   "version": 2,
-
   "dgSpecHash": "xLv3TfNR6q9fkXWyolHMzqkXIZgbfUpw1uTPJnTCFHrEbdqw2a2rGIIjfYNJyrZCMRNARGqr44Ar3DoldHT5XQ==",
-
   "success": true,
   "projectFilePath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\Go2Climb.API.Tests.csproj",
   "expectedPackageFiles": [
