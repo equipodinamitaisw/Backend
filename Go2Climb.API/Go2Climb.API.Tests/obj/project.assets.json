@@ -7544,19 +7544,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sebas\\.nuget\\packages\\": {}
+    "C:\\Users\\Josmar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\Go2Climb.API.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\Go2Climb.API.Tests.csproj",
       "projectName": "Go2Climb.API.Tests",
-      "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\Go2Climb.API.Tests.csproj",
-      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-      "outputPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\Go2Climb.API.Tests.csproj",
+      "packagesPath": "C:\\Users\\Josmar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Josmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7570,8 +7570,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
-              "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
+            "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
+              "projectPath": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
             }
           }
         }
@@ -7654,7 +7654,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
