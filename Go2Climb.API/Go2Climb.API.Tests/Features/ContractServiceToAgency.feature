@@ -9,3 +9,4 @@ Scenario: The tourist wishes to contract the service of an agency
     | Date       | People
     | 05-05-2022 | 5
     Then click on contract
+    
