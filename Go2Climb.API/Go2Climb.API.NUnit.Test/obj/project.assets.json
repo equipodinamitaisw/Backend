@@ -6965,24 +6965,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\anton\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidad\\Ciclo 2022-01\\Diseño de experimentos de software\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
+      "projectUniqueName": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
       "projectName": "Go2Climb.API.NUnit.Test",
-      "projectPath": "D:\\Universidad\\Ciclo 2022-01\\Diseño de experimentos de software\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
-      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidad\\Ciclo 2022-01\\Diseño de experimentos de software\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\obj\\",
+      "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\Go2Climb.API.NUnit.Test.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API.NUnit.Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6996,8 +6991,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Universidad\\Ciclo 2022-01\\Diseño de experimentos de software\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
-              "projectPath": "D:\\Universidad\\Ciclo 2022-01\\Diseño de experimentos de software\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
+            "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
+              "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
             }
           }
         }
@@ -7048,7 +7043,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
