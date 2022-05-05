@@ -2,7 +2,7 @@
 	As Agency I want to add my services so that my clients can see them
 
 @service-adding
-Scenario: Add new service 
+Scenario: Add a new service 
 	Given the agency wants to add on service endpoint
 	When owner add a new service
 	  | Name        | Price | Location | CreationDate | Description                         | AgencyId

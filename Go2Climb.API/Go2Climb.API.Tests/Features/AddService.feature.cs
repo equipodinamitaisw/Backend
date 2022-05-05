@@ -80,16 +80,16 @@ namespace Go2Climb.API.Tests.Features
             this.TestTearDown();
         }
         
-        [Xunit.SkippableFactAttribute(DisplayName="Add new service")]
+        [Xunit.SkippableFactAttribute(DisplayName="Add a new service")]
         [Xunit.TraitAttribute("FeatureTitle", "AddService")]
-        [Xunit.TraitAttribute("Description", "Add new service")]
+        [Xunit.TraitAttribute("Description", "Add a new service")]
         [Xunit.TraitAttribute("Category", "service-adding")]
         public virtual void AddNewService()
         {
             string[] tagsOfScenario = new string[] {
                     "service-adding"};
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add new service", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add a new service", null, tagsOfScenario, argumentsOfScenario, this._featureTags);
 #line 5
 this.ScenarioInitialize(scenarioInfo);
 #line hidden
