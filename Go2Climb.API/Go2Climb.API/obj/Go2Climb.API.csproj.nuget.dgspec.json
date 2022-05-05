@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {}
+    "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
+    "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
+        "projectUniqueName": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
         "projectName": "Go2Climb.API",
-        "projectPath": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
-        "packagesPath": "C:\\Users\\Josmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josmar\\Documents\\ISW\\Backend\\Go2Climb.API\\Go2Climb.API\\obj\\",
+        "projectPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "E:\\upc\\isw\\github\\Backend\\Go2Climb.API\\Go2Climb.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Josmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

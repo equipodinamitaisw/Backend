@@ -10,5 +10,5 @@ Scenario: The service is finished
 Scenario: The service is not finished
 	Given The client is logged
 	And enters to his profile 
-	When the client clicks on rate service 2
+	When the client clicks on rate on a service 
 	Then he will not be able to rate the service
