@@ -102,6 +102,7 @@ namespace Go2Climb.API
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Go2Climb.API v1"));
+                //a
             }
 
             app.UseHttpsRedirection();
