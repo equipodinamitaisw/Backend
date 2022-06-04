@@ -104,6 +104,8 @@ namespace Go2Climb.API.Services
             existingService.Price = service.Price;
             existingService.Location = service.Location;
             existingService.Description = service.Description;
+            existingService.VideoUrl = service.VideoUrl;
+            existingService.Reports = service.Reports;
             existingService.CreationDate = service.CreationDate;
             try
             {
