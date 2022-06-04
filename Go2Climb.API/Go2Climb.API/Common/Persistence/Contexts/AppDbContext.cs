@@ -123,6 +123,8 @@ namespace Go2Climb.API.Persistence.Contexts
             builder.Entity<Service>().Property(p => p.Location).IsRequired();
             builder.Entity<Service>().Property(p => p.CreationDate).IsRequired();
             builder.Entity<Service>().Property(p => p.Photos).HasMaxLength(500);
+            builder.Entity<Service>().Property(p => p.VideoUrl).HasMaxLength(500);
+            builder.Entity<Service>().Property(p => p.Reports);
             builder.Entity<Service>().Property(p => p.Description).IsRequired().HasMaxLength(300);
             builder.Entity<Service>().Property(p => p.IsOffer);
 
