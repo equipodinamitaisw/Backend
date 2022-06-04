@@ -29,6 +29,10 @@ namespace Go2Climb.API.Resources
         
         public bool IsOffer { get; set; }
         
+        public string VideoUrl { get; set; }
+        
+        public int Reports { get; set; }
+        
         [Required]
         public int AgencyId { get; set; }
     }
