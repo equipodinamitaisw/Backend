@@ -1,13 +1,16 @@
 ﻿/Go2Climb.API/Go2Climb.API/bin/Debug/*
 /Go2Climb.API/Go2Climb.API/bin/*
 /Go2Climb.API/Go2Climb.API/.idea/*
+/Go2Climb.API/Go2Climb.API/obj/*
 /Go2Climb.API/Go2Climb.API/.config/*
 /Go2Climb.API/Go2Climb.API.Tests/bin/Debug/*
 /Go2Climb.API/Go2Climb.API.Tests/bin/*
 /Go2Climb.API/Go2Climb.API.Tests/.idea/*
+/Go2Climb.API/Go2Climb.API.Tests/obj/*
 /Go2Climb.API/Go2Climb.API.Tests/.config/*
 /Go2Climb.API/Go2Climb.API.NUnitTest/bin/Debug/*
 /Go2Climb.API/Go2Climb.API.NUnitTest/bin/*
 /Go2Climb.API/Go2Climb.API.NUnitTest/.idea/*
+/Go2Climb.API/Go2Climb.API.NUnitTest/.obj/*
 /Go2Climb.API/Go2Climb.API.NUnitTest/.config/*
 
